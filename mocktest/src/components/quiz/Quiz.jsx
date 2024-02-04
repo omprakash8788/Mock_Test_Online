@@ -56,7 +56,7 @@ const Quiz = () => {
 
   return (
     <div className="container">
-      <h1>Science Mock Test</h1>
+      <h1>Current Affairs Mock Test</h1>
       <hr />
       {result ? (
         <></>
