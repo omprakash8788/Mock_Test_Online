@@ -672,5 +672,229 @@ export const gs = [
             option3: "NaHCO3",
             option4: "Ca(OH)2",
             ans:1,
+          },
+          {
+            question: "The SI unit of intensity of sound is ---",
+            option1: "Watt per square meter",
+            option2: "Joule per square meter",
+            option3: "Newton per square meter",
+            option4: "Tesla per square meter",
+            ans:1,
+          },
+          
+          {
+            question: "Formula of calcium nitrate",
+            option1: "Ca2 NO3",
+            option2: "Ca (NO3)2",
+            option3: "Ca2 (NO2)",
+            option4: "Ca3 (NO3)2",
+            ans:2,
+          },
+          
+          {
+            question: "Rate of change of momentum is",
+            option1: "Area",
+            option2: "Pressure",
+            option3: "Force",
+            option4: "Velocity",
+            ans:3
+          },
+          
+          {
+            question: "What is impulse equal to?",
+            option1: "Change in momentum",
+            option2: "Change in force",
+            option3: "Change in velocity",
+            option4: "Change in acceleration",
+            ans:1,
+          },
+          
+          {
+            question: "What is the SI unit of Torque",
+            option1: "Newton/meter",
+            option2: "Newton meter",
+            option3: "Newton second",
+            option4: "Newton / meter squared",
+            ans:2,
+          },
+          
+          {
+            question: "What is the SI unit of force.",
+            option1: "Pascal",
+            option2: "Boyle",
+            option3: "Newton",
+            option4: "Watt",
+            ans:3,
+          },
+          
+          {
+            question: "The SI unit of acceleration is—",
+            option1: "Meters/seconds^2",
+            option2: "Meters/second",
+            option3: "Seconds/meter",
+            option4: "Seconds / meter^2",
+            ans:1,
+          },
+          
+          {
+            question: "One kilowatt-hour is equal to –",
+            option1: "3.6 mega joule",
+            option2: "3.8 mega joule",
+            option3: "3.2 mega joule",
+            option4: "4.0 mega joule",
+            ans:1,
+          },
+          
+          {
+            question: "A kilowatt-hour is a unit of",
+            option1: "Electric energy",
+            option2: "Electric power",
+            option3: "Electric charge",
+            option4: "Electric current",
+            ans:1,
+          },
+          
+          {
+            question: "Energy in the foods can be measured in which units",
+            option1: "Kelvin",
+            option2: "Joule",
+            option3: "Calorie",
+            option4: "Celsius",
+            ans:3,
+          },
+          
+          {
+            question: "What is the unit of calorific value",
+            option1: "kN/kg",
+            option2: "kJ/kg",
+            option3: "kW/sec",
+            option4: "kCal/sec",
+            ans:2,
+          },
+          
+          {
+            question: "What is the unit of electrical conductivity?",
+            option1: "Ohm",
+            option2: "Ohm-cu",
+            option3: "Mho",
+            option4: "Ohm/cu",
+            ans:3,
+          },
+          
+          {
+            question: "Tesla is the unit of",
+            option1: "Induction",
+            option2: "Moment",
+            option3: "Area",
+            option4: "Flow",
+            ans:1,
+          },
+          
+          {
+            question: "SI unit of electric charge is:",
+            option1: "Ampere",
+            option2: "Coulomb",
+            option3: "ESU",
+            option4: "Kelvin",
+            ans:2,
+          },
+          
+          {
+            question: "What is the unit of electric power?",
+            option1: "Watt",
+            option2: "Volt",
+            option3: "KWH",
+            option4: "Ampere",
+            ans:1
+          },
+          
+          {
+            question: "Farad is the unit of:",
+            option1: "Capacitance",
+            option2: "Induction",
+            option3: "Resistance",
+            option4: "Conductance",
+            ans:1,
+          },
+          
+          {
+            question: "Unit of resistance is:",
+            option1: "Volt^2 * ampere",
+            option2: "Volt/ampere",
+            option3: "Ampere/volt",
+            option4: "Volt/ampere",
+            ans:2,
+          },
+          
+          {
+            question: "SI unit of magnetic flux is:",
+            option1: "Weber",
+            option2: "Weber / m",
+            option3: "Weber / m^2",
+            option4: "Weber – m^2",
+            ans:1,
+          },
+          
+          {
+            question: "Unit of physical quantity ‘Capacitance’",
+            option1: "Weber",
+            option2: "Fared",
+            option3: "Tesla",
+            option4: "Ohm",
+            ans:2,
+          },
+          
+          {
+            question: "Unit of physical quantity ‘Inductance’",
+            option1: "Weber",
+            option2: "Fared",
+            option3: "Tesla",
+            option4: "Henry",
+            ans:4,
+          },
+          
+          {
+            question: "Unit of impedance is:",
+            option1: "Ohm",
+            option2: "Henry",
+            option3: "Tesla",
+            option4: "Hertz",
+            ans:1,
+          },
+          
+          {
+            question: "Chemically baking soda is known as:",
+            option1: "Sodium carbonate",
+            option2: "Sodium hydrogen carbonate",
+            option3: "Calcium hydroxide",
+            option4: "Calcium carbonate",
+            ans:2,
+          },
+          
+          {
+            question: "What is the SI unit of force:",
+            option1: "Newton",
+            option2: "Joule",
+            option3: "Ampere",
+            option4: "Watt",
+            ans:1,
+          },
+          
+          {
+            question: "Rh-factor derives its name from:",
+            option1: "Bat",
+            option2: "Rhesus monkey",
+            option3: "Rhino",
+            option4: "Rat",
+            ans:2,
+          },
+          
+          {
+            question: "What is the unit of relative density:",
+            option1: "Kg / m",
+            option2: "Kg / m^2",
+            option3: "Kg / m^3",
+            option4: "It has no unit",
+            ans:4,
           }
 ];
