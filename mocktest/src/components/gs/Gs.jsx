@@ -55,7 +55,7 @@ const Gs = () => {
   
     return (
       <div className="container">
-        <h1>Science Mock Test</h1>
+        <h1>Science Mock Test Set-1</h1>
         <hr />
         {result ? (
           <></>

@@ -67,14 +67,6 @@ export const gs = [
     ans: 3,
   },
   {
-    question: "Who gave the theory of gravity",
-    option1: "Charles Newton",
-    option2: "Charles Babbage",
-    option3: "Isaac newton",
-    option4: "John Adams",
-    ans: 3,
-  },
-  {
     question: "Who was the inventor of positron?",
     option1: "Rutherford",
     option2: "J.J. Thomson",
@@ -546,5 +538,139 @@ export const gs = [
             option3: "CO + N2",
             option4: "NO + N2",
             ans: 3,
+          },
+          {
+            question: "Gamma (γ) rays were discovered by:",
+            option1: "Roentgen",
+            option2: "Henri Becquerel",
+            option3: "Paul Villard",
+            option4: "Rutherford",
+            ans:3,
+          },
+          
+          {
+            question: "Lightest element of the periodic table",
+            option1: "Osmium",
+            option2: "Lithium",
+            option3: "Gallium",
+            option4: "Mercury",
+            ans:2,
+          },
+          
+          {
+            question: "Hardest element of the periodic table",
+            option1: "Platinum",
+            option2: "Diamond",
+            option3: "Oganesson",
+            option4: "Lanthanide",
+            ans:2,
+          },
+          
+          {
+            question: "The phenomenon of electromagnetism was first explained by:",
+            option1: "Maxwell",
+            option2: "Faraday",
+            option3: "Oersted",
+            option4: "Simon Ohm",
+            ans:2,
+          },
+          
+          {
+            question: "Father of vaccination",
+            option1: "Edward Jenner",
+            option2: "Robert Koch",
+            option3: "Louis Pasteur",
+            option4: "Alexander Fleming",
+            ans:1,
+          },
+          
+          {
+            question: "Therma is the unit of",
+            option1: "Power",
+            option2: "Heat",
+            option3: "Light",
+            option4: "Distance",
+            ans:2,
+          },
+          
+          {
+            question: "The unit of Planck’s constant is:",
+            option1: "Js",
+            option2: "Js^-1",
+            option3: "Js^-2",
+            option4: "Js^2",
+            ans:1
+          },
+          
+          {
+            question: "Relative humidity is expressed in terms of:",
+            option1: "Gram",
+            option2: "Kilogram",
+            option3: "Percentage",
+            option4: "Ratio",
+            ans:3,
+          },
+          
+          {
+            question: "What is the SI unit of temperature?",
+            option1: "Kelvin",
+            option2: "Joule",
+            option3: "Celsius",
+            option4: "Fahrenheit",
+            ans:1,
+          },
+          
+          {
+            question: "Photon is the fundamental unit of:",
+            option1: "Gravitation",
+            option2: "Electricity",
+            option3: "Magnetism",
+            option4: "Light",
+            ans:4,
+          },
+          
+          {
+            question: "A light year is a unit of",
+            option1: "Time",
+            option2: "Distance",
+            option3: "Speed of light",
+            option4: "Intensity of light",
+            ans:2,
+          },
+          
+          {
+            question: "Lumen is the unit of",
+            option1: "Luminous flux",
+            option2: "Luminous intensity",
+            option3: "Luminous density",
+            option4: "Brightness",
+            ans:1,
+          },
+          
+          {
+            question: "Hertz is the unit of:",
+            option1: "Frequency",
+            option2: "Wavelength",
+            option3: "Intensity",
+            option4: "Clarity of waves",
+            ans:1,
+          },
+          
+          {
+            question: "The unit of noise pollution level is:",
+            option1: "Decibel",
+            option2: "Decimal",
+            option3: "Ppm",
+            option4: "None",
+            ans:1,
+          },
+          
+          {
+            question: "Formula of washing soda",
+            option1: "Na2CO3",
+            option2: "CaCO3",
+            option3: "NaHCO3",
+            option4: "Ca(OH)2",
+            ans:1,
           }
 ];
